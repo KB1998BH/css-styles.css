@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: blue;
+font-size: 100px;
+}
+img:hover{
+    background-color:gold;
+    
+}
+
+/**************class introduced************/
+.broccoli{
+background-color: red;
+}
+.bacon{
+    background-color: yellow;
+}
+.circular{
+    border-radius: 100px;
+    border-bottom: 100px;
+}
+/***********************id selector**************/
+#heading{
+    color: brown;
+}
+big{
+    font-size: 1000px;
+}
